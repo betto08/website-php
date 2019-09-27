@@ -4,8 +4,8 @@
             <img src="images/1.jpg" alt="Image" class="tm-image">
         </div>
         <div class="col-lg-6 col-md-6 content-item content-item-1 background">
-            <h2 class="main-title text-center dark-blue-text">Website Teste PHP</h2>
-            <p>HTML e CSS não foram criados por mim, e sim pela <span class="light-blue-text">templatemo</span>. A utilização do mesmo é exclusivamente para praticar PHP.</p>
+            <h2 class="main-title text-center dark-blue-text">Website PHP</h2>
+            <p>HTML, CSS e JS não foram criados por mim, e sim pela <span class="light-blue-text">templatemo</span>. A utilização do mesmo é exclusivamente para praticar PHP.</p>
             <p>Créditos também para <span class="light-blue-text">Unsplash</span> pelas imagens usadas no layout.</p>               
             <button type="button" class="btn btn-big dark-blue-bordered-btn">Big Button</button>
             <button type="button" class="btn btn-big dark-blue-btn">Download</button>
@@ -60,35 +60,35 @@
            <p class="margin-b-25">Nulla eget sem sit amet turpis tempus viverra at et odio. Cras vel eros id ipsum accumsan venenatis ut nec ipsum.</p>
 
            <!--<div class="row"> -->
-           <form method="post" name="contact-form" class="contact-form">
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-                <div class="form-group">
-                    <input name="name" type="text" class="form-control" id="name" placeholder="Your Name..." required>
-                </div>    
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pad-l-3">
-                <div class="form-group contact-field">
-                    <input name="email" type="email" class="form-control" id="email" placeholder="Your Email..." required>
-                </div>    
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="form-group contact-field">
-                    <input name="subject" type="text" class="form-control" id="subject" placeholder="Your Subject..." required>
-                </div>    
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="form-group contact-field">
-                    <textarea name="message" rows="5" class="form-control" id="message" placeholder="Write your message..." required></textarea>
-                </div>    
-            </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="form-group margin-b-0">
-                    <button type="submit" id="form-submit" class="btn no-bg btn-contact">Submit</button>
-                </div>    
-            </div>
-        </form>
+            <form method="post" name="contact-form" class="contact-form">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                    <div class="form-group">
+                        <input name="name" type="text" class="form-control" id="name" placeholder="Your Name..." required>
+                    </div>    
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 pad-l-3">
+                    <div class="form-group contact-field">
+                        <input name="email" type="email" class="form-control" id="email" placeholder="Your Email..." required>
+                    </div>    
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="form-group contact-field">
+                        <input name="subject" type="text" class="form-control" id="subject" placeholder="Your Subject..." required>
+                    </div>    
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="form-group contact-field">
+                        <textarea name="message" rows="5" class="form-control" id="message" placeholder="Write your message..." required></textarea>
+                    </div>    
+                </div>
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="form-group margin-b-0">
+                        <button type="submit" id="form-submit" class="btn no-bg btn-contact">Submit</button>
+                    </div>    
+                </div>
+            </form>
         <!--</div> -->
-        <div id="msgSubmit" class="h3 text-center hidden">Message Submitted!</div>
+            <div id="msgSubmit" class="h3 text-center hidden">Message Submitted!</div>    
+        </div>
     </section>
-</div>
     
