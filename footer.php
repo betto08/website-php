@@ -6,7 +6,7 @@
         <h2 class="section-title">About This Website</h2>
         <p class="about-text">Puzzle Template is brought to you by templatemo. Sed imperdiet quis ipsum a vulputate. Suspendisse sit amet nibh mi. In quis sapien a metus interdum hendrerit.</p>       
     </div>
-    </footer>
+</footer>
     </div>
     <div class="text-center footer">
         <div class="container">
