@@ -1,18 +1,18 @@
 <div class="container">
-        <section class="col-md-12 content" id="home">
-           <div class="col-lg-6 col-md-6 content-item">
-               <img src="images/1.jpg" alt="Image" class="tm-image">
-           </div>
-           <div class="col-lg-6 col-md-6 content-item content-item-1 background">
-               <h2 class="main-title text-center dark-blue-text">Puzzle Bootstrap Template</h2>
-               <p>Puzzle is a Bootstrap (v3.3.6) HTML CSS layout provided by <span class="light-blue-text">templatemo</span>. You can download, modify and use this layout for absolutely free of charge.</p>
-               <p>No backlink is needed to use this website template. Credit goes to <span class="light-blue-text">Unsplash</span> for images used in this layout.</p>               
-               <button type="button" class="btn btn-big dark-blue-bordered-btn">Big Button</button>
-               <button type="button" class="btn btn-big dark-blue-btn">Download</button>
-           </div>
-       </section>
+    <section class="col-md-12 content" id="home">
+        <div class="col-lg-6 col-md-6 content-item">
+            <img src="images/1.jpg" alt="Image" class="tm-image">
+        </div>
+        <div class="col-lg-6 col-md-6 content-item content-item-1 background">
+            <h2 class="main-title text-center dark-blue-text">Website Teste PHP</h2>
+            <p>HTML e CSS não foram criados por mim, e sim pela <span class="light-blue-text">templatemo</span>. A utilização do mesmo é exclusivamente para praticar PHP.</p>
+            <p>Créditos também para <span class="light-blue-text">Unsplash</span> pelas imagens usadas no layout.</p>               
+            <button type="button" class="btn btn-big dark-blue-bordered-btn">Big Button</button>
+            <button type="button" class="btn btn-big dark-blue-btn">Download</button>
+        </div>
+    </section>
 
-       <section class="col-md-12 content padding" id="services">
+    <section class="col-md-12 content padding" id="services">
         <div class="col-lg-6 col-md-6 col-md-push-6 content-item">
            <img src="images/2.jpg" alt="Image" class="tm-image">
        </div>
@@ -89,7 +89,6 @@
         </form>
         <!--</div> -->
         <div id="msgSubmit" class="h3 text-center hidden">Message Submitted!</div>
-
-    </div>
-
-</section>
+    </section>
+</div>
+    
