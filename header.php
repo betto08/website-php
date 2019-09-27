@@ -10,7 +10,7 @@
     function criarMenu($array){
         echo '<ul>';
         foreach($array as $obj){
-                echo '<li><a>'. $obj['nome'] . '</a></li>';
+                echo '<li><a href="' . $obj['link'] .'">'. $obj['nome'] .'</a></li>';
         }
         echo '</ul>';
        
